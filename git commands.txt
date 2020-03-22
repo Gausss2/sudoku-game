@@ -1,0 +1,17 @@
+git add (adicionado modificações localmente)
+
+gid commit (adiciona commit com mensagens ao repositorio localmente )
+
+git push (sobe ao repositorio)
+
+git pull (baixa a ultima versao do repositorio)
+
+merge conflit erro que da quando voce tenta dar um pull e uma linha sua
+está diferente de uma do repositorio.
+
+git log (historicos de commits)
+
+git reset --hard <commit/codigo hash do commit> (volta o arquivo para versao antiga)
+
+git reflog (mostra o historico de referencias do repositorio)
+
