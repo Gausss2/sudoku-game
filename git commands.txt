@@ -15,3 +15,15 @@ git reset --hard <commit/codigo hash do commit> (volta o arquivo para versao ant
 
 git reflog (mostra o historico de referencias do repositorio)
 
+braching (direções que o projeto pode tomar)
+
+HEAD - notação do do branch atual.
+
+git branch (mostra todas as branchs)
+
+git branch <nome da branch> (cria uma nova branch)
+
+git checkout branch '<nome da branch>' (muda a branch)
+
+
+
